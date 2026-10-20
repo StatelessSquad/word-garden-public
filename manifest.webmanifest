@@ -1,0 +1,15 @@
+{
+  "name": "Word Garden",
+  "short_name": "WordGarden",
+  "description": "Slide a picture to its word. It blooms, and the word is said out loud. A gentle English game for children.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef7f2",
+  "theme_color": "#eef7f2",
+  "icons": [
+    { "src": "assets/icon.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "assets/favicon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
