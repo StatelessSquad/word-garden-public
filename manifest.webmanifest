@@ -1,15 +1,16 @@
 {
   "name": "Word Garden",
-  "short_name": "WordGarden",
-  "description": "Slide a picture to its word. It blooms, and the word is said out loud. A gentle English game for children.",
+  "short_name": "Word Garden",
+  "description": "English words for children aged 3 to 7. Hear a word and find its picture, match it, spell it, and watch a garden grow with every word learned. No ads, no accounts, plays offline.",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#eef7f2",
-  "theme_color": "#eef7f2",
+  "background_color": "#f3fbff",
+  "theme_color": "#ffb330",
   "icons": [
-    { "src": "assets/icon.png", "sizes": "256x256", "type": "image/png" },
-    { "src": "assets/favicon.png", "sizes": "180x180", "type": "image/png" }
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }

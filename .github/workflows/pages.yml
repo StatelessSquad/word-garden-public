@@ -1,23 +1,16 @@
 name: pages
-# Deploys the public product page to GitHub Pages.
-#
-# This repository is a BUILD OUTPUT of the private source repository: the
-# files here are pushed by `scripts/sync-public.mjs` and must never be
-# edited by hand — the next sync overwrites the change.
+# Deploys the page to GitHub Pages on every push to main.
 on:
   push:
     branches: [main]
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: pages
   cancel-in-progress: true
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
