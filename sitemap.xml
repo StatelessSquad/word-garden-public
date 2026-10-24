@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://statelesssquad.github.io/word-garden-public/</loc></url>
-  <url><loc>https://statelesssquad.github.io/word-garden-public/privacy/</loc></url>
-  <url><loc>https://statelesssquad.github.io/word-garden-public/support/</loc></url>
-  <url><loc>https://statelesssquad.github.io/word-garden-public/terms/</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://statelesssquad.github.io/word-garden-public/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/og.png</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/shots/hero.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/shots/garden.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/shots/listen.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/shots/match.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/shots/spell.webp</image:loc></image:image>
+    <image:image><image:loc>https://statelesssquad.github.io/word-garden-public/assets/shots/night.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/word-garden-public/privacy/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/word-garden-public/support/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
+  <url>
+    <loc>https://statelesssquad.github.io/word-garden-public/terms/</loc>
+    <lastmod>2026-10-21</lastmod>
+  </url>
 </urlset>
