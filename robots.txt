@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://statelesssquad.github.io/word-garden-public/sitemap.xml
